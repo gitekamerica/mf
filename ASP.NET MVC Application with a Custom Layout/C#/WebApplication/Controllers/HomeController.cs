@@ -6,6 +6,8 @@ namespace WebApplication.Controllers
     {
         public ActionResult DashboardV1()
         {
+
+            string a = "abc";
             return View();
         }
         public ActionResult DashboardV2()
